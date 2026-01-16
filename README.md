@@ -4,33 +4,33 @@
 
 2.  Features:
 - User Management:-
-      - User registration and login
-      - Secure authentication using Django’s built‑in auth system
-      - Logout functionality
+  - User registration and login
+  - Secure authentication using Django’s built‑in auth system
+  - Logout functionality
 - Product Management:-
-       - Product listing with images, price, description, and stock
-       - Product categories with filtering
-       - Product detail page
-       - Admin dashboard to add, update, and manage products & categories
+  - Product listing with images, price, description, and stock
+  - Product categories with filtering
+  - Product detail page
+  - Admin dashboard to add, update, and manage products & categories
 - Shopping Cart:-
-       - Add products to cart
-       - Increase / decrease quantity
-       - Remove items from cart
-       - Cart total calculation
+  - Add products to cart
+  - Increase / decrease quantity
+  - Remove items from cart
+  - Cart total calculation
 - Order Processing:-
-       - Create order on checkout
-       - Store order details:
+  - Create order on checkout
+  - Store order details:
                - User
                - Order date
                - Total amount
                - Order status
-       - View order history (My Orders)
+  - View order history (My Orders)
 - UI / UX:-
-       - Responsive design using Bootstrap
-       - Attractive login & registration pages
-       - Icons inside input fields
-       - Show / hide password feature
-       - Consistent UI across all pages
+      - Responsive design using Bootstrap
+      - Attractive login & registration pages
+      - Icons inside input fields
+      - Show / hide password feature
+      - Consistent UI across all pages
   
 3. Technology Used:-
       - Frontend:
@@ -38,10 +38,10 @@
            - CSS
            - Bootstrap
            - JavaScript
-       - Backend:
+      - Backend:
            - Python
            - Django Framework
-       - Database:
+      - Database:
            - SQLite
 
  4. Future Enhancements:-
