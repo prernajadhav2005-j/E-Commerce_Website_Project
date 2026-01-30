@@ -50,9 +50,12 @@
        - Wishlist feature
        - Product reviews and ratings
        - Order tracking system
- 5. Author:-
+ 
+ 5. Result:- https://github.com/user-attachments/assets/f73ff6bf-a1d0-4ab5-9556-e9846f209d67
+ 
+ 6. Author:-
        - Prerna Jadhav
-       - E‑commerce Website Project using Django
+       - FullStack Development Intern
 
 
       
